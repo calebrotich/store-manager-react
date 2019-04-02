@@ -1,0 +1,155 @@
+#loginhead {
+    height: 40px;
+    background: green;
+    padding-top: 20px;
+}
+
+#maintopic {
+    color: #fff;
+    font-family: 'Changa One', cursive;
+    overflow: hidden;
+    font-size: 3em;
+    
+}
+
+.topic{
+    margin-left: 550px;
+    color: #fff;
+    font-family: 'Changa One', cursive;
+    overflow: hidden;
+    font-size: 3em;
+    border: none;
+
+}
+
+.navlinks {
+    color :#fff;
+    text-decoration: none;
+    float: left;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.navlinks:hover{
+    color: #9999ff;
+}
+
+
+#admin {
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 50px auto;
+    height: 380px;
+}
+
+.account {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 200;
+}
+
+.inputfields {
+    margin-top: 30px;
+    color: #000;
+}
+
+.bottomfield {
+    margin-bottom: 30px;
+}
+
+.login {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+.input {
+    height: 40px;
+    width: 60%;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+input:focus {
+    outline: none;
+ }
+ 
+ button {
+     font-size: 16px;
+     color: #fff;
+     padding: 10px 20px 10px 30px;
+     background-color: #000;
+     border-radius: 27px;
+ }
+ 
+ .btn > a {
+     color: #fff;
+ }
+ 
+ .forgot{
+     margin-top: 20px;
+ }
+ 
+ .forgot > a {
+     font-family: 'Open Sans', sans-serif;
+     color: #000;
+     text-decoration: none;
+ }
+ 
+ .forgot > a:hover {
+     color: #444;
+ }
+
+ #aboutcontent{
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+ }
+
+ #aboutcontent > p {
+     margin-top: 10px;
+     font-size: 20px;
+     color: grey;
+ }
+
+ #aboutheader {
+     font-size: 30px;
+     font-weight: 400;
+     margin-top: 10px;
+ }
+
+ footer {
+    background: #e8e8e8;
+    clear: both;
+    height: 40px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    color: #505050;
+    padding-top: 15px;
+}
+
+.list-item{
+    box-shadow: 1px 1px 3px 1px grey;
+    padding: 20px;
+    margin-top: 30px;
+    width: 15%;
+    border-radius: 5px;
+    float: left;
+    margin-left: 50px;
+    height: 150px;
+}
+
+.list-item > p{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.products-home{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 50px;
+}
